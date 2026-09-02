@@ -1,0 +1,13 @@
+# Model weights — see README for where these come from
+model/
+model-120b/
+
+# Build output
+__pycache__/
+*.pyc
+ext/build/
+*.so
+*.o
+
+.DS_Store
+.cleanup-archive-*.tgz

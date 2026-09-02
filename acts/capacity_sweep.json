@@ -1,0 +1,46 @@
+{
+ "600": [
+  {
+   "tok_s": 2.28,
+   "resident": 8.95,
+   "cache_hit": 37
+  },
+  {
+   "tok_s": 2.32,
+   "resident": 8.95,
+   "cache_hit": 37
+  },
+  {
+   "tok_s": 2.28,
+   "resident": 8.95,
+   "cache_hit": 37
+  },
+  {
+   "tok_s": 2.25,
+   "resident": 8.95,
+   "cache_hit": 37
+  }
+ ],
+ "700": [
+  {
+   "tok_s": 2.43,
+   "resident": 10.25,
+   "cache_hit": 41
+  },
+  {
+   "tok_s": 2.41,
+   "resident": 10.25,
+   "cache_hit": 41
+  },
+  {
+   "tok_s": 2.32,
+   "resident": 10.25,
+   "cache_hit": 41
+  },
+  {
+   "tok_s": 2.39,
+   "resident": 10.25,
+   "cache_hit": 41
+  }
+ ]
+}
